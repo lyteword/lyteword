@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LyteWord – </title>
-    <link>http://192.168.124.105:1313/</link>
-    <description>Recent content on LyteWord</description>
+    <title>LyteWord – Website Under Construction</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Website Under Construction on LyteWord</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jun 2025 22:13:34 -0400</lastBuildDate>
     
-	  <atom:link href="http://192.168.124.105:1313/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
       
