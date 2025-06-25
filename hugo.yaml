@@ -16,3 +16,13 @@ params:
       link: /
       width: 51
 
+  theme:
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+
