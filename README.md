@@ -1,6 +1,6 @@
 # LyteWord
 
-LyteWord is a website dedicated to presenting a curated collection of writings from past theologians and scholars, offering insights into the Bible and Christian theology. The site is designed for clarity and readability, making it easy for visitors to explore theological works in both light and dark modes.
+LyteWord is a website dedicated to presenting a curated collection of writings from past theologians and scholars, offering insights into the Bible and Christian theology. The site is designed for clarity and readability, making it easy for visitors to explore theological works.
 
 ## Features
 
