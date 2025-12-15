@@ -10,9 +10,33 @@ module:
   imports:
     - path: github.com/imfing/hextra
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - name: GitHub
+      weight: 1
+      url: "https://github.com/lyteword"
+      params:
+        icon: github
+  sidebar:
+    - name: Coming Soon
+      url: "/"
+      weight: 1
+
+disableKinds:
+  - taxonomy
+  - term
+
 params:
   meta:
     description: "LyteWord is a website dedicated to presenting a curated collection of writings from past theologians and scholars, offering insights into the Bible and Christian theology. The site is designed for clarity and readability, making it easy for visitors to explore theological works"
+
+  page:
+    width: normal
 
   navbar:
     displayTitle: false
@@ -27,10 +51,23 @@ params:
     default: system
     displayToggle: true
 
+  blog:
+    list:
+      displayTags: false
+    toc:
+      displayTags: false
+
   footer:
     enable: true
     displayCopyright: true
     displayPoweredBy: false
     width: normal
 
-
+  search:
+    enable: false
+  analytics:
+    googleAnalytics: 
+      ID: ""
+    umami: 
+      serverURL: ""
+      websiteID: "" 

@@ -2,25 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="53.975002mm"
-   height="28.574999mm"
-   viewBox="0 0 53.975002 28.574999"
    version="1.1"
    id="svg1"
-   xml:space="preserve"
+   width="204"
+   height="108"
+   viewBox="0 0 204 108"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1" /><g
-     id="layer1"
-     transform="translate(-78.316666,-134.14375)"><image
-       width="53.974998"
-       height="28.575001"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <image
+       width="204"
+       height="108"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAABsCAYAAAAmPl0cAAABsUlEQVR4nO3dwU3DQBBAUYyogibo&#10;hxbcF/3QQg604GNogX8Y2YvfOyfOKNHXXkab7XjszxfgT17PHgBWIhgIBAOBYCAQDASCgUAwEAgG&#10;AsFAIBgIBAPBW33D+8dXev3P92f9iFHT81/t+dPuNr8TBgLBQCAYCAQDgWAgEAwEgoFAMBAIBgLB&#10;QCAYCPIu2d2svvu0+u5fNT2/EwYCwUAgGAgEA4FgIBAMBIKBQDAQCAYCwUAgGAjGd8mmd7Hq7pBd&#10;rP9t+vdywkAgGAgEA4FgIBAMBIKBQDAQCAYCwUAgGAgEA8F2PPbn2UPAKpwwEAgGAsFAIBgIBAOB&#10;YCAQDASCgUAwEAgGAsFAkO8lm7736WrPn3a3+ae5lwwuRDAQCAYCwUAgGAgEA4FgIBAMBIKBQDAQ&#10;CAaC5f/jctrqu17V9G7Y6t+PEwYCwUAgGAgEA4FgIBAMBIKBQDAQCAYCwUAgGAjGd8lWt/ru09Xu&#10;hVudEwYCwUAgGAgEA4FgIBAMBIKBQDAQCAYCwUAgGAi247E/zx4CVuGEgUAwEAgGAsFAIBgIBAOB&#10;YCAQDASCgUAwEAgGgl9IWEi861nxYwAAAABJRU5ErkJggg==&#10;"
-       id="image1"
-       x="78.316666"
-       y="134.14375" /><path
-       style="fill:#111111;stroke:none"
-       d="m 81.491666,137.31875 v 9.525 h 9.524999 v -3.175 h -6.35 v -6.35 h -3.174999 m 12.699999,0 v 6.35 h 3.175 v 3.175 h 3.175005 v -3.175 h 3.17499 v -6.35 h -3.17499 v 3.175 h -3.175005 v -3.175 h -3.175 m 12.699995,0 v 3.175 h 3.175 v 6.35 h 3.175 v -6.35 h 3.175 v -3.175 h -9.525 m 12.7,0 v 9.525 h 9.525 v -3.175 h -3.175 v -3.175 h 3.175 v -3.175 h -9.525 m -38.099994,12.7 v 9.525 h 9.524999 v -9.525 h -3.175 v 3.175 h -3.175 v -3.175 h -3.174999 m 12.699999,0 v 9.525 h 9.524995 v -9.525 h -9.524995 m 12.699995,0 v 9.525 h 3.175 v -3.175 h 3.175 v 3.175 h 3.175 v -3.175 h -3.175 v -3.175 h 3.175 v -3.175 h -9.525 m 19.05,0 v 3.175 h -6.35 v 6.35 h 9.525 v -9.525 h -3.175 m -25.39999,3.175 v 3.175 h -3.175005 v -3.175 z"
-       id="path1" /></g></svg>
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAABsCAYAAAAmPl0cAAACoElEQVR4nO3dTXIaMRRGUZHKLrwe&#10;Zt4J22Pm9cA2yCBOgmP+PrrVqKVzxjY8UbqoilLBpuyOpwI85MerB4A1EQwEBAMBwUBAMBAQDAQE&#10;AwHBQEAwEBAMBAQDgZ/pP7x9vEd/f9ju06eoqvb8rT1+baPN74SBgGAgIBgICAYCgoGAYCAgmDuS&#10;j0Fb+8iU+QnmAY+EIJYxCOZBt4IQyzgEE7gUhljGMlwwU6/qnAcyNZbWrg1xX3yXrAeH7X7SZp/j&#10;VHk2ltbutrWm9vzDnTB/vHJjrH1TjmzYYEp5zcYVy7oNHUwpy25gsazf8MGUssxGFksfBPOp5oYW&#10;Sz8Ec6bGxhZLXwTznzk3uFj6I5gL5tjoYumTYK6YsuHF0i/B3PDMxhdL3wQDgep3yWrf5vWOzrna&#10;d+ecMBAQDAQEAwHBQEAwEBAMBAQDAcFAQDAQEAwEBAOBTdkdT68eAtbCCQMBwUBAMBAQDAQEAwHB&#10;QEAwEBAMBAQDAcFAQDAQiL+XrPb3PrX2+LWZ/7V8LxlUJBgICAYCgoGAYCAgGAgIBgKCgYBgICAY&#10;CAgGAqv/jcva1n5XKtXab4a29vo7Yfhi7cHXJhi+Ec11guEi0VwmGK4SzXeC4SbRfCUY7hLNP4Lh&#10;IWuIZokZBcPDWo5mqdkEQ6TFaJacSTDEWopm6VkEw1NaiGbqDM9cA6p+l2ztWtgYUxy2+2prePt4&#10;r373rNbsz87thBlAaxcqX23K6yGYQYjmt6mvg2AGMno0c6xfMIMZNZq51i2YAY0WzZzrFcygRolm&#10;7nUKZmC9R1NjfYIZXK/R1FqXYOgumprrEQyllH6iqb0OwfDX2qNZYv5N2R1P1Z8FOuGEgYBgICAY&#10;CAgGAoKBgGAgIBgICAYCgoGAYCAgGAj8AtW1vSoReVj0AAAAAElFTkSuQmCC&#10;"
+       id="image1" />
+  </g>
+</svg>
