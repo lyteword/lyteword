@@ -65,9 +65,3 @@ params:
 
   search:
     enable: false
-  analytics:
-    googleAnalytics: 
-      ID: ""
-    umami: 
-      serverURL: ""
-      websiteID: "" 
