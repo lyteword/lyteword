@@ -9,6 +9,10 @@
     text-decoration-line: none;
 }
 
+.content :where(p):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    text-align: justify;
+}
+
 @supports (
   (-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))
 ) {
