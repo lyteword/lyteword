@@ -23,9 +23,24 @@ menu:
       params:
         icon: github
   sidebar:
-    - name: Coming Soon
+    - name: The Gospel
       url: "/"
       weight: 1
+    - name: Bible
+      url: "/"
+      weight: 2
+    - name: Commentaries (Coming Soon!)
+      url: "/"
+      weight: 2
+    - name: Sermons & Homilies (Coming Soon!)
+      url: "/"
+      weight: 3
+    - name: Devotionals & Reading Plans (Coming Soon!)
+      url: "/"
+      weight: 4
+    - name: Additional Info
+      url: "/"
+      weight: 5
 
 disableKinds:
   - taxonomy
