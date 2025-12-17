@@ -24,7 +24,7 @@ menu:
         icon: github
   sidebar:
     - name: The Gospel
-      url: "/"
+      url: "/the-gospel"
       weight: 1
     - name: Bible
       url: "/"

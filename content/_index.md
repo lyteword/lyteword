@@ -20,7 +20,7 @@ To get started, explore our curated Bible texts and insightful commentaries to d
 > *And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: That whosoever believeth in him should not perish, but have eternal life. For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; but that the world through him might be saved.* &mdash; John 3:14-17, KJV.
 
 {{< cards cols="1" >}}
-  {{< card link="/" title="The Gospel of Jesus Christ" image="/images/thumb_cross.webp" subtitle="The Gospel is the life-changing message of God's love, forgiveness, and hope through Jesus Christ. It’s the Good News that offers eternal life to all who believe. If you're curious to learn more about this message, click here to explore the story of God's grace." >}}
+  {{< card link="/the-gospel" title="The Gospel of Jesus Christ" image="/images/thumb_cross.webp" subtitle="The Gospel is the life-changing message of God's love, forgiveness, and hope through Jesus Christ. It’s the Good News that offers eternal life to all who believe. If you're curious to learn more about this message, click here to explore the story of God's grace." >}}
 {{< /cards >}}
 
 We are passionate about revitalizing these works—many of which have been left to history—to serve both the spiritual growth of believers and the mission of sharing the Gospel. 
