@@ -2,16 +2,17 @@
 title: The Holy Bible
 breadcrumbs: false
 cascade:
-  toc: false
+  toc: true
   type: docs
 ---
 
+<hr>
 
-We now have the Holy Bible, or the book, because "bible" means book. We call it the book because it is the best book ever written. It's the most important book, like the sun in the sky, while other good books are like the moon and stars, getting their light from it. We call it the holy book because it was written by holy people, and inspired by the Holy Spirit. It is completely true and free from any lies or bad intentions. Its main goal is to help people live good and holy lives.
+The Bible is much more than just a collection of words. It is the greatest and most important book ever written. It is called the "holy book" because it was written by holy people, inspired by the Holy Spirit, and is free from error or deceit. Every part of it is truth, and its purpose is to lead us toward a life that is good, holy, and pleasing to God. At the heart of the Bible is the message of the Gospel—the Good News of God’s love, forgiveness, and hope through Jesus Christ. This message offers the gift of eternal life to everyone who believes. 
 
-The big ideas about God’s law and message are written in the Bible so that they would be clearer, last longer, and spread farther. This way, they could reach people in different places and times without losing their meaning. We should be careful not to ignore these important teachings, since they were given to us in a clear and lasting way. The Bible includes all the writings of holy people, from Moses to St. John, who shared God’s message. The Bible is now complete, and we have it in our hands, making it the most perfect guide we can have here on Earth. Every part of it is good, and together, it is very good. This is the light that shines in a dark place (2 Peter 1:19). Without the Bible, the world would be a much darker place.
+Through the Bible, God’s story unfolds: from creation, through the struggles of His people, to the life and sacrifice of Jesus, and the promise of new life for all who follow Him. The Bible is a living document, sharing God’s message so that it might be understood clearly, spread widely, and last forever. The Bible shows us how to live according to His will, and its teachings continue to guide us. This is the light that shines in a dark world, offering truth and hope in a way nothing else can. Without it, the world would be a much darker place. 
 
-*Based on the introduction to Genesis by Matthew Henry.*
+Explore the Bible, and discover the life-changing power of the Gospel, where God’s love, grace, and forgiveness are offered freely to all.
 
 ## Bible Translations
 

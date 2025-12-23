@@ -17,6 +17,10 @@
     --hx-font-sans: "Merriweather Sans", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+h1 {
+    font-variant: all-small-caps;
+}
+
 .content :where(hr):not(:where([class~=not-prose],[class~=not-prose] *)):first-child {
     margin-top: calc(var(--hx-spacing) * 5);
 }

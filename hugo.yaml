@@ -27,7 +27,7 @@ menu:
       url: "/the-gospel"
       weight: 1
     - name: Bible
-      url: "/"
+      url: "/bible"
       weight: 2
     - name: Commentaries (Coming Soon!)
       url: "/"
@@ -80,3 +80,4 @@ params:
 
   search:
     enable: false
+  
