@@ -1,0 +1,3 @@
+[submodule "content/bible/kjv"]
+	path = content/bible/kjv
+	url = https://github.com/lyteword/kjv.git
