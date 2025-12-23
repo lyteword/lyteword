@@ -15,7 +15,16 @@ By bringing these classic writings back to the forefront, we aim to honor the le
 
 To get started, explore our curated Bible texts and insightful commentaries to deepen your understanding of Scripture. Use the links in the sidebar to easily navigate and find resources that guide you in both study and reflection.
 
+{{< cards >}}
+  {{< card link="/" title="The Holy Bible" image="/images/thumb_bible.webp" subtitle="Explore the Word of God with easy access to the Bible in various translations." >}}
+  {{< card link="/" title="Commentaries" image="/images/thumb_stack.webp" subtitle="Deepen your understanding of Scripture with insightful commentaries." tag="Coming Soon" tagColor="blue" tagIcon="sparkles" >}}
+  {{< card link="/" title="Sermons & Homilies" image="/images/thumb_pulpit.webp" subtitle="Listen to inspiring sermons that provide biblical teachings, encouragement, and spiritual growth." tag="Coming Soon" tagColor="blue" tagIcon="sparkles">}}
+  {{< card link="/" title="Devotionals & Reading Plans" image="/images/thumb_calendar.webp" subtitle="Follow structured reading plans or devotional resources to guide your Bible study." tag="Coming Soon" tagColor="blue" tagIcon="sparkles">}}
+{{< /cards >}}
+
 ## The Mission of the Gospel
+
+The mission of the Gospel is the joyful proclamation of the Good News of Jesus Christ—truth that transforms hearts, renews minds, and calls people into new life with God. From the earliest days of the Church, this message has been preserved, defended, and explained through faithful theological works written to strengthen believers and to bear witness to the truth of Christ to the world.
 
 > *And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: That whosoever believeth in him should not perish, but have eternal life. For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; but that the world through him might be saved.* &mdash; John 3:14-17, KJV.
 
@@ -23,8 +32,8 @@ To get started, explore our curated Bible texts and insightful commentaries to d
   {{< card link="/the-gospel" title="The Gospel of Jesus Christ" image="/images/thumb_cross.webp" subtitle="The Gospel is the life-changing message of God's love, forgiveness, and hope through Jesus Christ. It’s the Good News that offers eternal life to all who believe. If you're curious to learn more about this message, click here to explore the story of God's grace." >}}
 {{< /cards >}}
 
-We are passionate about revitalizing these works—many of which have been left to history—to serve both the spiritual growth of believers and the mission of sharing the Gospel. 
+We are passionate about revitalizing these works—many of which have been left to history—not as relics of the past, but as living testimonies to enduring Gospel truth. By restoring, refining, and making them accessible, we seek to serve both the spiritual growth of believers and the ongoing mission of sharing the Gospel across generations and cultures.
 
 > *Then Jesus came to them and said, “All authority in heaven and on earth has been given to Me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.* &mdash; Matthew 28:18-20, BSB.
 
-Our goal is not only to help Christians grow in their walk with God but also to make these resources available to those who are seeking truth and desiring to know Jesus Christ more deeply.
+Our goal is not only to help Christians grow in their walk with God, but also to make these resources available to those who are seeking truth and desiring to know Jesus Christ more deeply. Whether read for devotion, study, or honest inquiry, these renewed works exist to point beyond themselves—to the glory of God and the life-giving hope found in the Gospel.
