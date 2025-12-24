@@ -23,9 +23,24 @@ menu:
       params:
         icon: github
   sidebar:
-    - name: Coming Soon
-      url: "/"
+    - name: The Gospel
+      url: "/the-gospel"
       weight: 1
+    - name: Bible
+      url: "/bible"
+      weight: 2
+    - name: Commentaries (Coming Soon!)
+      url: "/"
+      weight: 2
+    - name: Sermons & Homilies (Coming Soon!)
+      url: "/"
+      weight: 3
+    - name: Devotionals & Reading Plans (Coming Soon!)
+      url: "/"
+      weight: 4
+    - name: Additional Info (Coming Soon!)
+      url: "/"
+      weight: 5
 
 disableKinds:
   - taxonomy
@@ -65,3 +80,8 @@ params:
 
   search:
     enable: false
+
+  banner:
+    key: 'announcement-construction'
+    message: |
+      🚧 **Website Under Construction** 🚧 We're currently working hard to bring you a better experience. Stay tuned—exciting updates are coming soon!
