@@ -2,7 +2,7 @@
 title: 'The Gospel of Jesus Christ'
 ---
 
-## God is Creator and Lord
+## God, Lord and Creator
 
 God made us to know, love and serve Him. Jesus Christ, the eternal one, created all things and rules over all.
 
