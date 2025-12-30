@@ -6,13 +6,11 @@ cascade:
   type: docs
 ---
 
-<hr>
+***
 
-The Bible is much more than just a collection of words. It is the greatest and most important book ever written. It is called the "holy book" because it was written by holy people, inspired by the Holy Spirit, and is free from error or deceit. Every part of it is truth, and its purpose is to lead us toward a life that is good, holy, and pleasing to God. At the heart of the Bible is the message of the Gospel—the Good News of God’s love, forgiveness, and hope through Jesus Christ. This message offers the gift of eternal life to everyone who believes. 
+The Bible is far more than a mere collection of writings; it stands as the greatest and most significant book ever composed. Called the "Holy Book" because it was written by holy men inspired by the Holy Spirit, it is free from error and filled with divine truth. Its purpose is to lead humanity toward a life that is righteous, holy, and pleasing to God. At its heart lies the message of the Gospel—the Good News of God’s love, forgiveness, salvation and hope made known through Jesus Christ, offering the gift of eternal life to all who believe.
 
-Through the Bible, God’s story unfolds: from creation, through the struggles of His people, to the life and sacrifice of Jesus, and the promise of new life for all who follow Him. The Bible is a living document, sharing God’s message so that it might be understood clearly, spread widely, and last forever. The Bible shows us how to live according to His will, and its teachings continue to guide us. This is the light that shines in a dark world, offering truth and hope in a way nothing else can. Without it, the world would be a much darker place. 
-
-Explore the Bible, and discover the life-changing power of the Gospel, where God’s love, grace, and forgiveness are offered freely to all.
+Within its pages, God’s story unfolds—from creation and the trials of His people to the life, death, and resurrection of Jesus, and the promise of new life for all who follow Him. The Bible is a living testimony, meant to be understood, proclaimed, and preserved for all generations. It guides us in conforming our lives to God’s will and shines as a light in the darkness, revealing truth and hope unlike any other. Explore the Scriptures and encounter the transformative power of the Gospel, where God’s grace and mercy are offered freely to every soul.
 
 ## Bible Translations
 
