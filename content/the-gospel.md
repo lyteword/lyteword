@@ -2,7 +2,7 @@
 title: 'The Gospel of Jesus Christ'
 ---
 
-## God, Lord and Creator
+## God, Lord & Creator
 
 God made us to know, love and serve Him. Jesus Christ, the eternal one, created all things and rules over all.
 
@@ -109,7 +109,7 @@ We cannot save ourselves by good works or moral reform.
 > *Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin.*   
 > &mdash; Romans 3:20, BSB
 
-## Jesus, Lord and Savior
+## Jesus, Lord & Savior
 
 God who is rich in mercy and love for us sent His Son, Jesus Christ, who lived a righteous and perfect life and died in our place to pay for our sins and rose again.
 
@@ -135,7 +135,7 @@ His death satisfied God's perfect justice; His resurrection proves His victory o
 
 ## Saving Faith
 
-The Good News is this: **All who believe in Jesus Christ, the Son of God, have eternal life with Him.**
+The Good News is this: *All who believe in Jesus Christ, the Son of God, have eternal life with Him.*
 
 > *For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.*   
 > &mdash; John 3:16, KJV
@@ -179,5 +179,5 @@ If you're ready to trust in Jesus and accept His gift of salvation and eternal l
 
 The prayer below is simply a guide, an example of how to begin your relationship with Jesus. It's not about the words themselves, but the sincerity of your heart. Feel free to make this prayer your own and speak to Him in your own words, knowing that He hears you.
 
-> ***Dear Lord Jesus, I know that I am a sinner, and I ask for Your forgiveness. I believe You died for my sins and rose from the dead. I turn from my sins and invite You to come into my heart and life. I want to trust and follow You as my Lord and Savior. In Your Name. Amen.***
+> *Dear Lord Jesus, I know that I am a sinner, and I ask for Your forgiveness. I believe You died for my sins and rose from the dead. I turn from my sins and invite You to come into my heart and life. I want to trust and follow You as my Lord and Savior. In Your Name. Amen.*
 
