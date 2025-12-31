@@ -17,9 +17,9 @@ Within its pages, God’s story unfolds—from creation and the trials of His pe
 Explore a variety of Bible translations to deepen your understanding of Scripture. Select from one of the translations below to get started.
 
 {{< cards cols="2" >}}
-  {{< card link="./kjv" title="King James Version" icon="view-boards" tag="KJV" >}}
-  {{< card link="/" title="Berean Standard Bible" icon="view-boards" tag="Coming Soon" tagColor="blue" tagIcon="sparkles" >}}
+  {{< card link="./bsb" title="Berean Standard Bible" icon="view-boards" tag="BSB" >}}
   {{< card link="/" title="World English Bible" icon="view-boards" tag="Coming Soon" tagColor="blue" tagIcon="sparkles" >}}
+  {{< card link="./kjv" title="King James Version" icon="view-boards" tag="KJV" >}}
   {{< card link="/" title="Bible in Basic English" icon="view-boards" tag="Coming Soon" tagColor="blue" tagIcon="sparkles" >}}
 {{< /cards >}}
 
