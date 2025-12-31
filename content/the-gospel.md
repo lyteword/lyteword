@@ -2,6 +2,10 @@
 title: 'The Gospel of Jesus Christ'
 ---
 
+***
+
+The Gospel, meaning "Good News," is the transformative message of God's love, forgiveness, and hope through Jesus Christ. It is the Good News that offers eternal life to all who believe. Continue reading below to explore further insights into this powerful message.
+
 ## God, Lord & Creator
 
 God made us to know, love and serve Him. Jesus Christ, the eternal one, created all things and rules over all.
@@ -44,6 +48,9 @@ He calls us to be holy as He is holy.
 ## Mankind is Sinful
 
 All have sinned.
+
+> *Therefore, as sin entered into the world through one man, and death through sin, so death passed to all men because all sinned.*   
+> &mdash; Romans 5:12, WEB
 
 > *As it is written, “There is no one righteous; no, not one. There is no one who understands. There is no one who seeks after God. They have all turned away. They have together become unprofitable. There is no one who does good, no, not so much as one.”*   
 > &mdash; Romans 3:10-12, WEB
@@ -139,6 +146,9 @@ The Good News is this: *All who believe in Jesus Christ, the Son of God, have et
 
 > *For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.*   
 > &mdash; John 3:16, KJV
+
+> *For as in Adam all die, even so in Christ shall all be made alive.*   
+> &mdash; 1 Corinthians 15:22, KJV
 
 > *There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.*   
 > &mdash; Romans 8:1, KJV
