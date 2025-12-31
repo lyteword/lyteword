@@ -14,10 +14,10 @@ In an age of distractions and information overload, we provide a peaceful, ad-fr
 To get started, explore our curated Bible texts and insightful commentaries to deepen your understanding of Scripture. Use the links in the sidebar to easily navigate and find resources that guide you in both study and reflection.
 
 {{< cards >}}
-  {{< card link="/bible" title="The Holy Bible" image="/images/thumb_bible.webp" subtitle="Explore the Word of God with easy access to the Bible in various translations." >}}
-  {{< card link="/" title="Commentaries" image="/images/thumb_stack.webp" subtitle="Deepen your understanding of Scripture with insightful commentaries." tag="Coming Soon" tagColor="blue" tagIcon="sparkles" >}}
-  {{< card link="/" title="Sermons & Homilies" image="/images/thumb_pulpit.webp" subtitle="Listen to inspiring sermons that provide biblical teachings, encouragement, and spiritual growth." tag="Coming Soon" tagColor="blue" tagIcon="sparkles">}}
-  {{< card link="/" title="Devotionals & Reading Plans" image="/images/thumb_calendar.webp" subtitle="Follow structured reading plans or devotional resources to guide your Bible study." tag="Coming Soon" tagColor="blue" tagIcon="sparkles">}}
+  {{< card link="/bible" title="The Holy Bible" image="images/thumb_bible.webp" subtitle="Explore the Word of God with easy access to the Bible in various translations." method="Resize" options="326x q80 webp" >}}
+  {{< card link="/" title="Commentaries" image="images/thumb_stack.webp" subtitle="Deepen your understanding of Scripture with insightful commentaries." tag="Coming Soon" tagColor="blue" tagIcon="sparkles" method="Resize" options="326x q80 webp" >}}
+  {{< card link="/" title="Sermons & Homilies" image="images/thumb_pulpit.webp" subtitle="Listen to inspiring sermons that provide biblical teachings, encouragement, and spiritual growth." tag="Coming Soon" tagColor="blue" tagIcon="sparkles" method="Resize" options="326x q80 webp" >}}
+  {{< card link="/" title="Devotionals & Reading Plans" image="images/thumb_calendar.webp" subtitle="Follow structured reading plans or devotional resources to guide your Bible study." tag="Coming Soon" tagColor="blue" tagIcon="sparkles" method="Resize" options="326x q80 webp" >}}
 {{< /cards >}}
 
 ## The Mission of the Gospel
@@ -25,7 +25,7 @@ To get started, explore our curated Bible texts and insightful commentaries to d
 The mission of the Gospel is the joyful proclamation of the Good News of Jesus Christ—truth that transforms hearts, renews minds, and calls people into new life with God. From the earliest days of the Church, this message has been preserved, defended, and explained through faithful theological works written to strengthen believers and to bear witness to the truth of Christ to the world.
 
 {{< cards cols="1" >}}
-  {{< card link="/the-gospel" title="The Gospel of Jesus Christ" image="/images/thumb_cross.webp" subtitle="The Gospel is the life-changing message of God's love, forgiveness, and hope through Jesus Christ. It’s the Good News that offers eternal life to all who believe. If you're curious to learn more about this message, click here to explore the story of God's grace." >}}
+  {{< card link="/the-gospel" title="The Gospel of Jesus Christ" image="images/thumb_cross.webp" subtitle="The Gospel is the life-changing message of God's love, forgiveness, and hope through Jesus Christ. It’s the Good News that offers eternal life to all who believe. If you're curious to learn more about this message, click here to explore the story of God's grace." method="Resize" options="670x q80 webp" >}}
 {{< /cards >}}
 
 > *For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; but that the world through him might be saved.* &mdash; John 3:16-17, KJV.
