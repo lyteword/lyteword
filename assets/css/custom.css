@@ -63,3 +63,15 @@ strong {
     border-color: var(--hx-color-primary-800);
     color: var(--hx-color-primary-300);
 }
+
+.hx\:text-gray-500 {
+    color: var(--hx-color-gray-700);
+}
+
+.hx\:dark\:text-neutral-400:where(.dark,.dark *) {
+    color: var(--hx-color-neutral-200);
+}
+
+.hx\:dark\:text-gray-400:where(.dark,.dark *) {
+    color: var(--hx-color-gray-300);
+}
