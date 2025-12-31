@@ -1,5 +1,5 @@
 ---
-title: 'Remastered Bible Texts & Classic Christian Writings'
+title: 'Remastered Christian Classics'
 description: 'A curated collection of remastered Bible texts and classic Christian writings, making timeless Gospel insights accessible for believers today and all who are searching.'
 ---
 

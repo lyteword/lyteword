@@ -4,3 +4,9 @@
 [submodule "content/bible/bsb"]
 	path = content/bible/bsb
 	url = https://github.com/lyteword/bsb.git
+[submodule "content/bible/web"]
+	path = content/bible/web
+	url = https://github.com/lyteword/web.git
+[submodule "content/bible/bbe"]
+	path = content/bible/bbe
+	url = https://github.com/lyteword/bbe.git
