@@ -18,8 +18,8 @@ Explore a variety of Bible translations to deepen your understanding of Scriptur
 
 {{< cards cols="2" >}}
   {{< card link="./bsb" title="Berean Standard Bible" icon="view-boards" tag="BSB" >}}
-  {{< card link="/" title="World English Bible" icon="view-boards" tag="Coming Soon" tagColor="blue" tagIcon="sparkles" >}}
+  {{< card link="./web" title="World English Bible" icon="view-boards" tag="WEB" >}}
   {{< card link="./kjv" title="King James Version" icon="view-boards" tag="KJV" >}}
-  {{< card link="/" title="Bible in Basic English" icon="view-boards" tag="Coming Soon" tagColor="blue" tagIcon="sparkles" >}}
+  {{< card link="./bbe" title="Bible in Basic English" icon="view-boards" tag="BBE" >}}
 {{< /cards >}}
 
