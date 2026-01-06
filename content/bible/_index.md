@@ -21,5 +21,7 @@ Explore a variety of Bible translations to deepen your understanding of Scriptur
   {{< card link="./web" title="World English Bible" icon="view-boards" tag="WEB" >}}
   {{< card link="./kjv" title="King James Version" icon="view-boards" tag="KJV" >}}
   {{< card link="./bbe" title="Bible in Basic English" icon="view-boards" tag="BBE" >}}
+  {{< card link="./asv" title="American Standard Version" icon="view-boards" tag="ASV" >}}
+  {{< card link="./rv" title="English Revised Version" icon="view-boards" tag="RV" >}}
 {{< /cards >}}
 
