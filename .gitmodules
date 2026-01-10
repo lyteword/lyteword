@@ -16,3 +16,6 @@
 [submodule "content/bible/rv"]
 	path = content/bible/rv
 	url = https://github.com/lyteword/rv.git
+[submodule "content/bible/ylt"]
+	path = content/bible/ylt
+	url = https://github.com/lyteword/ylt.git
