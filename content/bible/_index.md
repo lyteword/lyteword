@@ -23,5 +23,6 @@ Explore a variety of Bible translations to deepen your understanding of Scriptur
   {{< card link="./bbe" title="Bible in Basic English" icon="view-boards" tag="BBE" >}}
   {{< card link="./asv" title="American Standard Version" icon="view-boards" tag="ASV" >}}
   {{< card link="./rv" title="English Revised Version" icon="view-boards" tag="RV" >}}
+  {{< card link="./ylt" title="Young's Literal Translation" icon="view-boards" tag="YLT" >}}
 {{< /cards >}}
 
