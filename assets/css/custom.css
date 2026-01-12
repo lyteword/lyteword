@@ -75,3 +75,20 @@ strong {
 .hx\:dark\:text-gray-400:where(.dark,.dark *) {
     color: var(--hx-color-gray-300);
 }
+
+.mobile-toc {
+   display: none;
+}
+
+@media (max-width: 768px) {
+  .content :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    font-size: unset;
+  }
+  .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    font-size: unset;
+  }
+  .mobile-toc {
+     display: inline;
+  }
+}
+
