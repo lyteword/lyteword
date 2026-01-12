@@ -76,8 +76,8 @@ strong {
     color: var(--hx-color-gray-300);
 }
 
-.mobile-toc {
-   display: none;
+.hx\:bg-gray-100 {
+    background-color: var(--hx-color-gray-50);
 }
 
 @media (max-width: 768px) {
