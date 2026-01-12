@@ -76,8 +76,8 @@ strong {
     color: var(--hx-color-gray-300);
 }
 
-.mobile-toc {
-   display: none;
+.hx\:bg-gray-100 {
+    background-color: var(--hx-color-gray-50);
 }
 
 @media (max-width: 768px) {
@@ -92,3 +92,15 @@ strong {
   }
 }
 
+.hx\:md\:text-5xl {
+    font-size: var(--hx-text-5xl);
+    line-height: var(--tw-leading,var(--hx-text-5xl--line-height));
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.hx\:sm\:text-xl {
+      font-size: var(--hx-text-xl);
+      line-height: var(--tw-leading, var(--hx-text-xl--line-height));
+      margin-bottom: 1em;
+}
