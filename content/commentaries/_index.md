@@ -1,0 +1,17 @@
+---
+title: Commentaries
+breadcrumbs: false
+cascade:
+  toc: true
+  type: docs
+---
+
+***
+
+Explore a rich collection of free, open-source Bible commentaries created to deepen your understanding of Scripture. These resources draw from faithful scholarship across centuries, offering clear insights, historical context, and thoughtful reflection—available to everyone at no cost. Whether you are studying, teaching, or simply reading, you’re invited to search, learn, and grow through God’s Word.
+
+{{< cards cols="2" >}}
+  {{< card link="./" title="Complete Matthew Henry Commentary" icon="view-boards" >}}
+  {{< card link="./" title="Concise Matthew Henry Commentary" icon="view-boards" >}}
+{{< /cards >}}
+
