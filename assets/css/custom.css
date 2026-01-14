@@ -76,19 +76,12 @@ strong {
     color: var(--hx-color-gray-300);
 }
 
-.hx\:bg-gray-100 {
-    background-color: var(--hx-color-gray-50);
-}
-
 @media (max-width: 768px) {
   .content :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)) {
     font-size: unset;
   }
   .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)) {
     font-size: unset;
-  }
-  .mobile-toc {
-     display: inline;
   }
 }
 
