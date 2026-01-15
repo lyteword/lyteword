@@ -19,3 +19,9 @@
 [submodule "content/bible/ylt"]
 	path = content/bible/ylt
 	url = https://github.com/lyteword/ylt.git
+[submodule "content/commentaries/mhenry-complete"]
+	path = content/commentaries/mhenry-complete
+	url = https://github.com/lyteword/mhenry-complete.git
+[submodule "content/commentaries/mhenry-concise"]
+	path = content/commentaries/mhenry-concise
+	url = https://github.com/lyteword/mhenry-concise.git
