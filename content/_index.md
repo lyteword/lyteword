@@ -25,7 +25,7 @@ To get started, explore our curated Bible texts and insightful commentaries to d
 
 {{< cards >}}
   {{< card link="/bible" title="The Holy Bible" image="images/thumb_bible.webp" subtitle="Explore the Word of God with easy access to the Bible in various translations." method="Resize" options="342x q80 webp" >}}
-  {{< card link="/" title="Commentaries" image="images/thumb_stack.webp" subtitle="Deepen your understanding of Scripture with insightful commentaries." tag="Coming Soon" tagColor="blue" tagIcon="sparkles" method="Resize" options="342x q80 webp" >}}
+  {{< card link="/commentaries" title="Commentaries" image="images/thumb_stack.webp" subtitle="Deepen your understanding of Scripture with insightful commentaries." tagColor="blue" tagIcon="sparkles" method="Resize" options="342x q80 webp" >}}
   {{< card link="/" title="Sermons & Homilies" image="images/thumb_pulpit.webp" subtitle="Listen to inspiring sermons that provide biblical teachings, encouragement, and spiritual growth." tag="Coming Soon" tagColor="blue" tagIcon="sparkles" method="Resize" options="342x q80 webp" >}}
   {{< card link="/" title="Devotionals & Reading Plans" image="images/thumb_calendar.webp" subtitle="Follow structured reading plans or devotional resources to guide your Bible study." tag="Coming Soon" tagColor="blue" tagIcon="sparkles" method="Resize" options="342x q80 webp" >}}
 {{< /cards >}}

@@ -28,7 +28,7 @@ menu:
       url: "/bible"
       weight: 2
     - name: Commentaries (Coming Soon!)
-      url: "/"
+      url: "/commentaries"
       weight: 2
     - name: Sermons & Homilies (Coming Soon!)
       url: "/"
