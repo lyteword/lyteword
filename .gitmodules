@@ -22,3 +22,6 @@
 [submodule "content/commentaries/mhenry-complete"]
 	path = content/commentaries/mhenry-complete
 	url = https://github.com/lyteword/mhenry-complete.git
+[submodule "content/commentaries/mhenry-concise"]
+	path = content/commentaries/mhenry-concise
+	url = https://github.com/lyteword/mhenry-concise.git
