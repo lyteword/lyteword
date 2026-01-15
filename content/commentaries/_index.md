@@ -12,6 +12,6 @@ Explore a rich collection of free, open-source Bible commentaries created to dee
 
 {{< cards cols="2" >}}
   {{< card link="./mhenry-complete" title="Complete Matthew Henry Commentary" icon="view-boards" >}}
-  {{< card link="./" title="Concise Matthew Henry Commentary" icon="view-boards" >}}
+  {{< card link="./mhenry-concise" title="Concise Matthew Henry Commentary" icon="view-boards" >}}
 {{< /cards >}}
 
