@@ -76,15 +76,6 @@ strong {
     color: var(--hx-color-gray-300);
 }
 
-@media (max-width: 768px) {
-  .content :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    font-size: unset;
-  }
-  .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    font-size: unset;
-  }
-}
-
 .hx\:md\:text-5xl {
     font-size: var(--hx-text-5xl);
     line-height: var(--tw-leading,var(--hx-text-5xl--line-height));
@@ -96,4 +87,24 @@ strong {
       font-size: var(--hx-text-xl);
       line-height: var(--tw-leading, var(--hx-text-xl--line-height));
       margin-bottom: 2em;
+}
+
+.hextra-cards {
+    grid-template-columns: repeat(auto-fill, minmax(max(175px, calc((100% - 1rem * 2) / var(--hextra-cards-grid-cols))), 1fr));
+}
+
+@media (max-width: 768px) {
+  .content :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    font-size: unset;
+  }
+  .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    font-size: unset;
+  }
+  .hextra-card .hextra-card-icon svg {
+    width: 1.2rem; 
+  }
+  .hextra-cards {
+    grid-template-columns: repeat(auto-fill, minmax(max(150px, calc((100% - 1rem * 2) / var(--hextra-cards-grid-cols))), 1fr));
+    font-size: smaller;
+  }
 }
