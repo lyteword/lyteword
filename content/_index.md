@@ -1,6 +1,6 @@
 ---
 title: 'Read Free and Open Source Bibles and Classic Christian Texts Online'
-description: 'Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and classic Christian writings, making them easily accessible to all, whether you're deepening your faith or just beginning your journey.'
+description: 'Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and classic Christian writings, making them easily accessible to all, whether you are deepening your faith or just beginning your journey.'
 sidebar:
   exclude: true
 toc: false
@@ -12,7 +12,7 @@ Classic Christian Writings
 {{< /hextra/hero-headline >}}
 
 {{< hextra/hero-subtitle >}}
-Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and classic Christian writings, making them easily accessible to all, whether you're deepening your faith or just beginning your journey.
+Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and classic Christian writings, making them easily accessible to all, whether you are deepening your faith or just beginning your journey.
 {{< /hextra/hero-subtitle >}}
 
 ***

@@ -46,7 +46,7 @@ disableKinds:
 
 params:
   meta:
-    description: "Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and classic Christian writings, making them easily accessible to all, whether you're deepening your faith or just beginning your journey."
+    description: "Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and classic Christian writings, making them easily accessible to all, whether you are deepening your faith or just beginning your journey."
 
   page:
     width: normal
