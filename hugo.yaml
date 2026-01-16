@@ -46,7 +46,7 @@ disableKinds:
 
 params:
   meta:
-    description: "LyteWord is a website dedicated to presenting a curated collection of writings from past theologians and scholars, offering insights into the Bible and Christian theology. The site is designed for clarity and readability, making it easy for visitors to explore theological works"
+    description: "Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and classic Christian writings, making them easily accessible to all, whether you're deepening your faith or just beginning your journey."
 
   page:
     width: normal

@@ -1,6 +1,6 @@
 ---
 title: 'Read Free and Open Source Bibles and Classic Christian Texts Online'
-description: 'We offer a curated collection of remastered Bible texts and classic Christian writings, bringing timeless Gospel insights to life for both seasoned believers and those beginning their faith journey. In a world of constant distraction, our ad-free space invites readers to study Scripture and explore the enduring wisdom of past theologians, preachers, and scholars in a clear, accessible way—equipping a new generation to understand and live out the Christian faith.'
+description: 'Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and classic Christian writings, making them easily accessible to all, whether you're deepening your faith or just beginning your journey.'
 sidebar:
   exclude: true
 toc: false
