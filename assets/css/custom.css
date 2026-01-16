@@ -95,5 +95,5 @@ strong {
 .hx\:sm\:text-xl {
       font-size: var(--hx-text-xl);
       line-height: var(--tw-leading, var(--hx-text-xl--line-height));
-      margin-bottom: 1em;
+      margin-bottom: 2em;
 }
