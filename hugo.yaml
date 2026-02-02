@@ -24,21 +24,21 @@ menu:
     - name: The Gospel
       url: "/the-gospel"
       weight: 1
-    - name: Bible
+    - name: The Holy Bible
       url: "/bible"
       weight: 2
     - name: Commentaries
       url: "/commentaries"
-      weight: 2
+      weight: 3
     - name: Sermons & Homilies (Coming Soon!)
       url: "/"
-      weight: 3
+      weight: 4
     - name: Devotionals & Reading Plans (Coming Soon!)
       url: "/"
-      weight: 4
+      weight: 5
     - name: Additional Info (Coming Soon!)
       url: "/"
-      weight: 5
+      weight: 6
 
 disableKinds:
   - taxonomy

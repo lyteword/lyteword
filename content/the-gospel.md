@@ -1,6 +1,11 @@
 ---
-title: 'The Gospel of Jesus Christ'
+title: "The Gospel of Jesus Christ | Faith, Forgiveness and Hope"
+description: "Explore the transformative message of the Gospel of Jesus Christ. Discover God’s love, forgiveness, and hope for             
+eternal life through faith in Jesus. Learn more about this powerful Good News."
+linkTitle: "The Gospel"
 ---
+
+# The Gospel
 
 ***
 

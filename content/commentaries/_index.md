@@ -1,10 +1,16 @@
 ---
-title: Commentaries
+title: "Bible Commentaries | Complete Online Study"
+description: "Explore a vast collection of free, open-source Bible commentaries. Gain deeper insights into Scripture, historical context, and 
+thoughtful reflection."
+linkTitle: "Commentaries"
 breadcrumbs: false
 cascade:
   toc: true
   type: docs
+layout: single-section
 ---
+
+# Commentaries
 
 ***
 
