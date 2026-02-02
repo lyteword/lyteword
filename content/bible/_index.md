@@ -1,10 +1,15 @@
 ---
-title: The Holy Bible
+title: "The Holy Bible | Explore God’s Word Online"
+description: "Browse a wide selection of Bible translations & resources. Discover the Good News of Jesus Christ and God’s promise of salvation to eternal life through faith."
+linkTitle: "Bible"
 breadcrumbs: false
 cascade:
   toc: true
   type: docs
+layout: single-section
 ---
+
+# The Holy Bible
 
 ***
 
