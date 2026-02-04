@@ -1,22 +1,5 @@
-@font-face {
-  font-family: 'Merriweather Sans';
-  src: url('/fonts/merriweather-sans/MerriweatherSans-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Merriweather Sans';
-  src: url('/fonts/merriweather-sans/MerriweatherSans-Italic.ttf') format('truetype');
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-}
-
 :root {
-    /*--hx-text-base: 1.2rem;*/
-    --hx-font-sans: "Merriweather Sans", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --hx-font-sans: system-ui, sans-serif;
 }
 
 h1 {
