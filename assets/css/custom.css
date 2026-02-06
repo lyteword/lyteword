@@ -2,10 +2,6 @@
     --hx-font-sans: system-ui, sans-serif;
 }
 
-h1 {
-    font-variant: all-small-caps;
-}
-
 strong {
     color: var(--hx-color-primary-400);
 }
@@ -64,12 +60,16 @@ strong {
     line-height: var(--tw-leading,var(--hx-text-5xl--line-height));
     margin-bottom: 1em;
     margin-top: 1em;
+    font-variant: all-small-caps;
+    letter-spacing: normal;
 }
 
 .hx\:sm\:text-xl {
-      font-size: var(--hx-text-xl);
-      line-height: var(--tw-leading, var(--hx-text-xl--line-height));
-      margin-bottom: 2em;
+    font-size: var(--hx-text-2xl);
+    line-height: var(--tw-leading, var(--hx-text-2xl--line-height));
+    margin-bottom: 2em;
+    font-variant: all-small-caps;
+    letter-spacing: normal;
 }
 
 @media (max-width: 768px) {
@@ -77,6 +77,9 @@ strong {
     font-size: unset;
   }
   .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    font-size: unset;
+  }
+  .content :where(h4):not(:where([class~=not-prose],[class~=not-prose] *)) {
     font-size: unset;
   }
 }
