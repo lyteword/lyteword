@@ -7,7 +7,7 @@ toc: false
 ---
 
 {{< hextra/hero-headline >}}
-Explore Remastered Bible Texts &    
+Explore Remastered Bible Texts and    
 Classic Christian Writings
 {{< /hextra/hero-headline >}}
 

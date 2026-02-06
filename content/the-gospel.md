@@ -11,7 +11,7 @@ linkTitle: "The Gospel"
 
 The Gospel, meaning "Good News," is the transformative message of God's love, forgiveness, and hope through Jesus Christ. It is the Good News that offers eternal life to all who believe. Continue reading below to explore further insights into this powerful message.
 
-## God, Lord & Creator
+## God, Lord and Creator
 
 God made us to know, love and serve Him. Jesus Christ, the eternal one, created all things and rules over all.
 
@@ -121,7 +121,7 @@ We cannot save ourselves by good works or moral reform.
 > *Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin.*   
 > &mdash; Romans 3:20, BSB
 
-## Jesus, Lord & Savior
+## Jesus, Lord and Savior
 
 God who is rich in mercy and love for us sent His Son, Jesus Christ, who lived a righteous and perfect life and died in our place to pay for our sins and rose again.
 
