@@ -7,7 +7,7 @@ strong {
 }
 
 .content :where(strong):not(:where([class~=not-prose],[class~=not-prose] *)):where(.dark,.dark *) {
-    color: var(--hx-color-primary-500);
+    color: var(--hx-color-primary-300);
 }
 
 .content :where(hr):not(:where([class~=not-prose],[class~=not-prose] *)):first-child {
