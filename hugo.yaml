@@ -79,3 +79,6 @@ params:
   search:
     enable: false
 
+
+enableRobotsTXT: true
+
