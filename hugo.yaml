@@ -20,6 +20,7 @@ menu:
       url: "https://github.com/lyteword"
       params:
         icon: github
+        rel: nofollow
   sidebar:
     - name: The Gospel
       url: "/the-gospel"
@@ -46,7 +47,7 @@ disableKinds:
 
 params:
   meta:
-    description: "Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and classic Christian writings, making them easily accessible to all, whether you are deepening your faith or just beginning your journey."
+    description: "Our mission is to curate and remaster a free, open-source collection of Bible texts, commentaries, sermons, and Christian writings."
 
   page:
     width: normal
