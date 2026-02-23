@@ -6,9 +6,6 @@ ignoreFiles:
   - '(?i)README\.md$'
   - '(?i)LICENSE$'
 
-ignoreLogs:
-  - 'warning-goldmark-raw-html'
-
 module:
   imports:
     - path: github.com/imfing/hextra
