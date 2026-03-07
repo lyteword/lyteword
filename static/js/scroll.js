@@ -12,7 +12,7 @@
           const currentScrollY = window.pageYOffset;
           if (currentScrollY > lastScrollY && currentScrollY > 50) {
             nav.classList.add('nav-hidden');
-          } else if (lastScrollY - currentScrollY == 10) {
+          } else if (lastScrollY - currentScrollY == 2) {
             nav.classList.remove('nav-hidden');
           }
           lastScrollY = currentScrollY;
