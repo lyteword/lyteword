@@ -22,12 +22,12 @@ Within its pages, God’s story unfolds—from creation and the trials of His pe
 Explore a variety of Bible translations to deepen your understanding of Scripture. Select from one of the translations below to get started.
 
 {{< cards cols="2" >}}
-  {{< card link="./bsb" title="Berean Standard Bible" icon="view-boards" tag="BSB" >}}
-  {{< card link="./web" title="World English Bible" icon="view-boards" tag="WEB" >}}
-  {{< card link="./kjv" title="King James Version" icon="view-boards" tag="KJV" >}}
-  {{< card link="./bbe" title="Bible in Basic English" icon="view-boards" tag="BBE" >}}
-  {{< card link="./asv" title="American Standard Version" icon="view-boards" tag="ASV" >}}
-  {{< card link="./rv" title="English Revised Version" icon="view-boards" tag="RV" >}}
-  {{< card link="./ylt" title="Young's Literal Translation" icon="view-boards" tag="YLT" >}}
+  {{< card link="./bsb" title="Berean Standard Bible (BSB)" icon="view-boards" subtitle="A modern English translation designed to balance accuracy to the Hebrew and Greek with clear, readable language." >}}
+  {{< card link="./web" title="World English Bible (WEB)" icon="view-boards" subtitle="A modernized update of the American Standard Version that uses contemporary English while preserving accuracy." >}}
+  {{< card link="./kjv" title="King James Version (KJV)" icon="view-boards" subtitle="A classic 17th-century Bible translation known for its literary style and influence on English Christianity and literature." >}}
+  {{< card link="./bbe" title="Bible in Basic English (BBE)" icon="view-boards" subtitle="A simplified English translation that uses a limited vocabulary to make the Bible easier for learners and readers with basic English." >}}
+  {{< card link="./asv" title="American Standard Version (ASV)" icon="view-boards" subtitle="A literal early-20th-century revision of the King James tradition emphasizing close adherence to the Hebrew and Greek texts." >}}
+  {{< card link="./rv" title="English Revised Version (RV)" icon="view-boards" subtitle="The first official revision of the King James Version, updating wording and scholarship based on improved biblical manuscripts." >}}
+  {{< card link="./ylt" title="Young's Literal Translation (YLT)" icon="view-boards" subtitle="A highly literal translation that attempts to preserve the grammatical structure and verb tenses of the Hebrew and Greek." >}}
 {{< /cards >}}
 
