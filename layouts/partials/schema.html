@@ -9,7 +9,6 @@
 }
 </script>
 {{ end }}
-
 {{ if eq .Title "The Gospel of Jesus Christ | Faith, Forgiveness and Hope" }}
 <script type="application/ld+json">
 {
@@ -23,6 +22,42 @@
     "@type": "WebSite",
     "name": "{{ .Site.Title }}",
     "url": "{{ .Site.BaseURL }}"
+  }
+}
+</script>
+{{ end }}
+{{ if or (eq .Section "bible") (eq .Section "commentaries") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{ .Title }}",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}",
+  "url": "{{ .Permalink }}",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ .Site.BaseURL }}"
+      },
+      {{ range $index, $element := .Ancestors.Reverse }}
+      {
+        "@type": "ListItem",
+        "position": {{ add $index 2 }},
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      },
+      {{ end }}
+      {
+        "@type": "ListItem",
+        "position": {{ add (len .Ancestors) 2 }},
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      }
+    ]
   }
 }
 </script>
