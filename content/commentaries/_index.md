@@ -23,6 +23,7 @@ Whether you are studying, teaching, or simply reading, you’re invited to searc
 {{< cards cols="2" >}}
   {{< card link="./mhenry-complete" title="Matthew Henry's Complete Bible Commentary" icon="view-boards" subtitle="A six-volume devotional commentary that explains Scripture with theological insight, application, and reflection." >}}
   {{< card link="./mhenry-concise" title="Matthew Henry's Concise Bible Commentary" icon="view-boards" subtitle="A shortened, one-volume version of the complete commentary that summarizes key explanations in a brief format." >}}
+  {{< card link="./chspurgeon-tod" title="Charles Spurgeon's The Treasury of David" icon="view-boards" subtitle="A seven-volume biblical commentary on the Psalms by C. H. Spurgeon." >}}
 {{< /cards >}}
 
 ***

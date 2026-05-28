@@ -25,3 +25,6 @@
 [submodule "content/commentaries/mhenry-concise"]
 	path = content/commentaries/mhenry-concise
 	url = https://github.com/lyteword/mhenry-concise.git
+[submodule "content/commentaries/chspurgeon-tod"]
+	path = content/commentaries/chspurgeon-tod
+	url = https://github.com/lyteword/chspurgeon-tod.git
